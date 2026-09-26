@@ -2,7 +2,7 @@
 
 ![Ahmad Mubarak](img/github-header-banner.png)
 
-I'm a Computer Science graduate from UIN Sumatera Utara with a focus on front-end web development.
+I'm a Computer Science graduate from State Islamic University of North Sumatra (Indonesia) with a focus on front-end web development.
 
 I enjoy building responsive, modern, and user-friendly websites with clean and organized code. I'm continuously improving my skills through personal projects and hands-on practice.
 
