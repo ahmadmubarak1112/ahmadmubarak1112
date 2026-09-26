@@ -59,7 +59,7 @@ I'm open to opportunities related to Front-End Web Development and other entry-l
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn>
 </a>
 
-<a href="https://www.linkedin.com/in/ahmad-mubarak-0b33002b5/">
+<a href="https://ahmadmubarak1112.github.io/ahmad-mubarak-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
 </a>
 
@@ -67,7 +67,7 @@ I'm open to opportunities related to Front-End Web Development and other entry-l
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="https://www.instagram.com/in/ahmadm1112">
+<a href="https://www.instagram.com/ahmadm1112">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
