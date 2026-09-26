@@ -1,4 +1,4 @@
-### Welcome to my profile! 
+# Welcome to my profile! 
 
 ![Ahmad Mubarak](img/github-header-banner.png)
 
@@ -8,7 +8,7 @@ I enjoy building responsive, modern, and user-friendly websites with clean and o
 
 <hr>
 
-##### 🚀 About Me
+### 🚀 About Me
 
 - 🎓 Computer Science graduate
 - 💻 Focused on **Front-End Web Development**
@@ -19,34 +19,20 @@ I enjoy building responsive, modern, and user-friendly websites with clean and o
 <br>
 <hr>
 
-##### 🧰 Tech Stack
+### 🧰 Tech Stack
 
 Languanges & Framework
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 Tools & Other
 
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 
 <br>
 <hr>
 
-##### 🌱 Currently Learning
+### 🌱 Currently Learning
 
 I'm currently focusing on strengthening my advanced JavaScript and improving my ability to build responsive and interactive web interfaces.
 
@@ -60,13 +46,13 @@ Topics I'm practicing:
 
 <hr>
 
-##### 📊 My Stats
+### 📊 My Stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ahmadmubarak1112&custom_title=Ahmad%20Mubarak's%20Stats&show_icons=true&theme=blue_navy)](https://github-stats-extended.vercel.app/api?username=ahmadmubarak1112&custom_title=My%20GitHub%20Stats&show_icons=true&theme=blue_navy)
 
 <hr>
 
-##### 🤝 Let's Connect
+### 🤝 Let's Connect
 
 I'm open to opportunities related to Front-End Web Development and other entry-level technology roles.
 
@@ -90,5 +76,3 @@ I'm open to opportunities related to Front-End Web Development and other entry-l
 <br><br>
 
 <p align="center"> Thanks for visiting my profile! 🚀 </p>
-
-
